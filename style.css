@@ -1,0 +1,20 @@
+.bold {
+  font-weight: 900;
+}
+
+.huge {
+  font-size: 50px;
+  color: red;
+}
+
+.small {
+  font-size: 8px;
+  color: green;
+}
+
+.crazy {
+  font-size: 40px;
+  font-weight: 900;
+  color: orange;
+  background-color: yellow;
+}
